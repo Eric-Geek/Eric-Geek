@@ -1,16 +1,34 @@
-<!-- Minimalist Geek Profile -->
+<!-- Anime Geek Profile -->
 <div align="center">
 
 ```text
-███████╗██████╗ ██╗ ██████╗       ██████╗ ███████╗███████╗██╗  ██╗
-██╔════╝██╔══██╗██║██╔════╝      ██╔════╝ ██╔════╝██╔════╝██║ ██╔╝
-█████╗  ██████╔╝██║██║     █████╗██║  ███╗█████╗  █████╗  █████╔╝ 
-██╔══╝  ██╔══██╗██║██║     ╚════╝██║   ██║██╔══╝  ██╔══╝  ██╔═██╗ 
-███████╗██║  ██║██║╚██████╗      ╚██████╔╝███████╗███████╗██║  ██╗
-╚══════╝╚═╝  ╚═╝╚═╝ ╚═════╝       ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+                    ╱|、
+                  (˚ˎ 。7  
+                   |、˜〵          
+                  じしˍ,)ノ
+
+    ∧,,,∧
+  （  ̳• · • ̳）     ╭────────────────────────────────────────╮
+  /    づ♡        │  Welcome to Eric-Geek's GitHub Profile │
+                  ╰────────────────────────────────────────╯
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF00&center=true&width=600&lines=%24+whoami;Full-Stack+Developer+%7C+Open+Source+Contributor;Building+things+that+matter+with+clean+code" alt="Typing SVG" />
+```text
+             ／l、
+           （ﾟ､ ｡ ７         ┌─────────────────────────────────┐
+             l  ~ヽ         │  $ cat ~/profile.txt           │
+            じしf_,)ノ       │  > Coding with kawaii energy   │
+                            │  > Building cool stuff          │
+      ∩___∩               │  > Open source enthusiast       │
+      | ノ   ヽ              └─────────────────────────────────┘
+     / ●  ● |     
+     |  ( _●_) ミ    ✨ Full-Stack Developer × Anime Lover ✨
+    彡、  |∪| 、`\   
+    / __ ヽノ /´> )  
+    (＿＿＿）/(_／   
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=FF69B4&center=true&width=600&lines=Konnichiwa!+I'm+Eric-Geek+%E2%9C%A8;Developer+by+day%2C+Otaku+by+night+%F0%9F%8C%99;Writing+kawaii+code+since+forever+%F0%9F%92%96" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Eric-Geek&style=flat-square&color=brightgreen)](https://github.com/Eric-Geek)
 
@@ -18,50 +36,66 @@
 
 ---
 
-### `$ cat /etc/motd`
+### `$ neofetch`
 
-```bash
-#!/usr/bin/env bash
-echo "Code is poetry written in logic"
-echo "Simplicity is the ultimate sophistication"
+```text
+                                    ⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                          ⢀⣤⣶⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                        ⢀⣴⣿⣿⣿⣿⣿⣿⣿⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                       ⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                      ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                     ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                    ⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                   ⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                  ⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                 ⢀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+                ⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+               ⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+              ⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+             ⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+           ⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+         ⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣀⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣦⣤⣄⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣤⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣶⣦⣤⣄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠈⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀
+       ⠈⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄⡀
+              ⠈⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦
+
+          ～ Laying down and coding all day long ～
 ```
 
----
-
-### `$ ls -la ~/tech_stack/`
+### `$ whoami > ~/tech_stack.txt`
 
 <div align="center">
 
-![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
-![Python](https://img.shields.io/badge/-Python-000?style=flat-square&logo=python)
-![Go](https://img.shields.io/badge/-Go-000?style=flat-square&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat-square&logo=rust)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
-![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
-![K8s](https://img.shields.io/badge/-Kubernetes-000?style=flat-square&logo=kubernetes)
-![Vim](https://img.shields.io/badge/-Vim-000?style=flat-square&logo=vim)
+![Linux](https://img.shields.io/badge/-Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-FF69B4?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-FF69B4?style=for-the-badge&logo=react&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-FF69B4?style=for-the-badge&logo=vim&logoColor=white)
 
 </div>
 
 ---
 
-### `$ git log --oneline --graph`
+### `$ git status`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Eric-Geek&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff&icon_color=00ff00" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Geek&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=ffffff" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Eric-Geek&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&icon_color=ff79c6" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-Geek&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2" />
 </div>
 
 ---
 
-### `$ ps aux | grep projects`
+### `$ tail -f ~/current_mood.log`
 
-```
-> Building tools that developers actually want to use
-> Automating everything that can be automated  
-> Contributing to projects that make a difference
-> Learning something new every single day
+```text
+[2024] INFO: Writing kawaii code (◕‿◕)✨
+[2024] DEBUG: Coffee level critical, refilling... ☕
+[2024] INFO: Successfully deployed happiness.js 💖
+[2024] WARN: Sleep module not found, continuing anyway... 
+[2024] INFO: Compiling dreams into reality... ⭐
 ```
 
 ---
@@ -69,9 +103,17 @@ echo "Simplicity is the ultimate sophistication"
 <div align="center">
 
 ```text
-EOF
+        ∩___∩
+        |  ノ   ヽ
+       /  ●   ● |   < Thanks for visiting my profile!
+       |   ( _●_)  ミ
+      彡、   |∪|  、｀\
+     /  __ ヽノ /´>  )
+     (＿＿＿）/(_／
+
+     ～ Happy Coding! ～
 ```
 
-<sub>Crafted with `vim` • Powered by caffeine • Running on Linux</sub>
+<sub>Made with 💖 and lots of anime • Powered by kawaii energy</sub>
 
 </div>
