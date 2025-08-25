@@ -15,16 +15,6 @@
   <b>Minimalist. Keyboard‑driven. Terminal native.</b>
 </p>
 
-<div align="center">
-  
-[Portfolio](https://eric-geek.dev) •
-[Blog](https://eric-geek.dev/blog) •
-[Email](mailto:eric@example.com) •
-[Twitter](https://twitter.com/your_twitter) •
-[Keybase](https://keybase.io/your_id)
-
-</div>
-
 ---
 
 <!-- MOTTO / ASCII -->
@@ -98,25 +88,6 @@
 - ⚙️ DevTools — internal CLIs, code generators, project bootstrappers.
 - 🕸️ Systems — minimal services, caching layers, and high‑throughput APIs.
 - 🔐 Security hygiene — containers, SBOMs, supply chain checks.
-
----
-
-<!-- CONTACT -->
-<h3 align="center">🌐 Connect</h3>
-<p align="center">
-  <a href="mailto:eric@example.com">
-    <img src="https://img.shields.io/badge/Email-eric%40example.com-blue?style=flat-square&logo=gmail" />
-  </a>
-  <a href="https://twitter.com/your_twitter">
-    <img src="https://img.shields.io/badge/Twitter-@your_twitter-1DA1F2?style=flat-square&logo=twitter" />
-  </a>
-  <a href="https://eric-geek.dev">
-    <img src="https://img.shields.io/badge/Website-eric--geek.dev-orange?style=flat-square&logo=firefox" />
-  </a>
-  <a href="https://keybase.io/your_id">
-    <img src="https://img.shields.io/badge/Keybase-verify-informational?style=flat-square&logo=keybase" />
-  </a>
-</p>
 
 ---
 
